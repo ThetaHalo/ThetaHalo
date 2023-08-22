@@ -1,2 +1,3 @@
-## Hey there, my name is Theta!
---
+<center># Hey there!</center>
+
+## I'm Theta!
