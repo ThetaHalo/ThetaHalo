@@ -18,4 +18,6 @@
 ### How to contact me! 📫
 
 ![](https://dcbadge.vercel.app/api/shield/216404071253278720?theme=gray&compact=true&logoColor=ab6afe) <a href="https://www.thetaa.rf.gd">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=ab6afe" />
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=ab6afe" /> <br>
+
+<img align="center" alt="it's me, theta!" src="cherry.gif" width="50%" height="auto" />
