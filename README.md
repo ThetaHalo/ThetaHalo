@@ -4,7 +4,7 @@
 > "I tried so hard, and got so far. But in the end, it doesn't even matter."
 
 ### About me! ✨
-<img align="right" alt="it's me, theta!" src="epsthetagif.gif" width="20%" height="auto" /> **My name is Theta!** ♡ <br>
+<img align="right" alt="it's me, theta!" src="chrystler.gif" width="40%" height="auto" /> **My name is Theta!** ♡ <br>
 - I live in the United States. ❆ <br>
 - I'm interested in many things, here are a few!<br> - Music 𝅘𝅥𝅮<br>- Writing 🖊<br>- Aviation 🛪<br>- Gaming 🖳
 
