@@ -13,7 +13,8 @@
 
 ### Experience 📌
 
-- I'm honestly incredibly new to this tbh. <br>- I'm trying my best to learn and hopefully I can put more stuff here eventually! :D
+[Violet! An Among Us Mod.](https://github.com/ThetaHalo/Violet) 💜
+
 
 ### How to contact me! 📫
 
