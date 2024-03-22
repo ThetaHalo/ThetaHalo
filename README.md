@@ -13,7 +13,8 @@
 
 ### Experience 📌
 
-**[Violet! An Among Us Mod.](https://github.com/ThetaHalo/Violet)** 💜
+**[Violet! An Among Us Mod.](https://github.com/Violet-AU)** 💜 <br>
+**[My Website!](https://me.epstheta.xyz)** 💜
 
 
 ### How to contact me! 📫
