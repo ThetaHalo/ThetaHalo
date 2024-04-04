@@ -19,5 +19,5 @@
 
 ### How to contact me! 📫
 
-![](https://discord.c99.nl/widget/theme-2/216404071253278720.png)<br>
+<a href="https://www.discord.com/users/216404071253278720"><img src="https://discord.c99.nl/widget/theme-2/216404071253278720.png" width="350"/> <br>
 <a href="https://www.epstheta.xyz"><img src="banner.png" width="250"/> <br>
