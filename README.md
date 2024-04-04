@@ -19,5 +19,5 @@
 
 ### How to contact me! 📫
 
-![](https://dcbadge.vercel.app/api/shield/216404071253278720?theme=gray&compact=true&logoColor=ab6afe) <a href="https://www.epstheta.xyz">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=ab6afe" /> <br>
+![](https://discord.c99.nl/widget/theme-2/216404071253278720.png)<br>
+<a href="https://www.epstheta.xyz"><img src="./images/banner.png"/> <br>
