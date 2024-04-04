@@ -20,4 +20,4 @@
 ### How to contact me! 📫
 
 ![](https://discord.c99.nl/widget/theme-2/216404071253278720.png)<br>
-<a href="https://www.epstheta.xyz"><img src="./images/banner.png"/> <br>
+<a href="https://www.epstheta.xyz"><img src="banner.png" width="250"/> <br>
