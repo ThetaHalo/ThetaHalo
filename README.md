@@ -21,3 +21,8 @@
 
 <a href="https://www.discord.com/users/216404071253278720"><img src="https://discord.c99.nl/widget/theme-2/216404071253278720.png" width="350"/> <br>
 <a href="https://www.epstheta.xyz"><img src="banner.png" width="250"/> <br>
+
+### GitHub Stats 🌟
+![Theta's GitHub stats](https://readme-stats.eps.lol/api?username=ThetaHalo&show_icons=true&theme=transparent&title_color=bdafff&text_color=bdafff&icon_color=ab6afe&border_radius=6&hide_rank=true&include_all_commits=true&)
+
+
