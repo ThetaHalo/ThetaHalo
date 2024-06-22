@@ -19,8 +19,7 @@
 
 ### How to contact me! 📫
 
-<a href="https://www.discord.com/users/216404071253278720"><img src=".github/discord-banner.gif" width="250"/> <br>
-<a href="https://www.epstheta.xyz"><img src=".github/banner.png" width="250"/> <br>
+<a href="https://www.discord.com/users/216404071253278720"><img src=".github/discord-banner.gif" width="320"/>
 
 
 
