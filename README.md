@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=ThetaHalo&abbreviated=true&label=All+Time+Profile+Views!&style=flat-square&color=blueviolet) </h2>
 
-<h3 align=center> Information </h3>
+<h3 align=center> Information 📖</h3>
 
 ```C#
 using Markdown;
@@ -24,13 +24,13 @@ Location: "United States, hoping to move to Europe in the future!"
 <details>
   <summary align=center><h3 align=center>Other Stuff 💫</h3></summary>
 
-<h3 align=center> Languages that I can somewhat understand: </h3>
+<h3 align=center> Languages that I can somewhat understand 💻 </h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=astro,html,css,cs,typescript" />
   </a>
 </p>
-<h3 align=center>Socials:</h3>
+<h3 align=center>Socials 📞</h3>
 <p align=center>
 <a href="https://eps.lol"><img src="https://skillicons.dev/icons?i=html"/></a> <a href="https://discord.com/users/216404071253278720"><img src="https://skillicons.dev/icons?i=discord"/></a>
 </p>
