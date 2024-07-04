@@ -8,14 +8,14 @@
 - I live in the United States. ❆ <br>
 - I'm interested in many things, here are a few!<br> - Music 𝅘𝅥𝅮<br>- Writing 🖊<br>- Aviation 🛪<br>- Gaming 🖳
 
+<details><summary><h3>Projects / Experience 💻</h3></summary>
+  
+### Current Projects! <br> 
+  
+- **[Violet! An Among Us Mod.](https://github.com/Violet-AU)** 💜 <br>
+- **[My Website!](https://me.epstheta.xyz)** 💜 <br>
 
-
-
-### Experience 📌
-
-**[Violet! An Among Us Mod.](https://github.com/Violet-AU)** 💜 <br>
-**[My Website!](https://me.epstheta.xyz)** 💜
-
+</details>
 
 ### How to contact me! 📫
 
