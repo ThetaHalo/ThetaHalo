@@ -1,25 +1,49 @@
+<h2 align=center> <code>Hey! I'm Theta! ✨</code> 
 
-<h1 align="center">⭐Hey there!🌌</h1>
+![](https://komarev.com/ghpvc/?username=ThetaHalo&abbreviated=true&label=All+Time+Profile+Views!&style=flat-square&color=blueviolet) </h2>
 
-> "I tried so hard, and got so far. But in the end, it doesn't even matter."
+<h3 align=center> Information </h3>
 
-### About me! ✨
-<img align="right" alt="it's me, theta!" src="https://readme-stats.eps.lol/api?username=ThetaHalo&show_icons=true&theme=transparent&title_color=bdafff&text_color=bdafff&icon_color=ab6afe&border_radius=6&hide_rank=true&include_all_commits=true&" width="40%" height="auto" /> **My name is Theta!** ♡ <br>
-- I live in the United States. ❆ <br>
-- I'm interested in many things, here are a few!<br> - Music 𝅘𝅥𝅮<br>- Writing 🖊<br>- Aviation 🛪<br>- Gaming 🖳
+```C#
+using Markdown;
+using GitInfo;
+using boop;
 
-<details><summary><h3>Projects / Experience 💻</h3></summary>
-  
-### Current Projects! <br> 
-  
-- **[Violet! An Among Us Mod.](https://github.com/Violet-AU)** 💜 <br>
-- **[My Website!](https://me.epstheta.xyz)** 💜 <br>
+namespace Theta;
+
+public class Thetas-GH-Profile
+
+/*
+hey there!
+Interests: "Gaming, Music, Writing, Aerospace (Aviation), Coding!"
+Hobbies: "Listening to Music, Watching Anime, Playing Games, and helping others!"
+Location: "United States, hoping to move to Europe in the future!"
+*/
+```
+---
+<details>
+  <summary align=center><h3 align=center>Other Stuff 💫</h3></summary>
+
+<h3 align=center> Languages that I can somewhat understand: </h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=astro,html,css,cs,typescript" />
+  </a>
+</p>
+<h3 align=center>Socials:</h3>
+<p align=center>
+<a href="https://eps.lol"><img src="https://skillicons.dev/icons?i=html"/></a> <a href="https://discord.com/users/216404071253278720"><img src="https://skillicons.dev/icons?i=discord"/></a>
+</p>
+
+
+<h3 align=center>GitHub Stats:</h3>
+<p align=center>
+<a href="https://github.com/ThetaHalo/">
+  <img align="center" src="https://readme-stats.eps.lol/api?username=ThetaHalo&show_icons=true&theme=transparent&title_color=bdafff&text_color=bdafff&icon_color=ab6afe&border_radius=6&hide_rank=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/ThetaHalo/">
+  <img align="center" src="https://readme-stats.eps.lol/api/top-langs/?username=ThetaHalo&theme=transparent&title_color=bdafff&text_color=bdafff" />
+</a>
+</p>
 
 </details>
-
-### How to contact me! 📫
-
-<a href="https://www.discord.com/users/216404071253278720"><img src=".github/discord-banner.gif" width="320"/>
-
-
-
