@@ -36,7 +36,7 @@ Location: "United States, hoping to move to Europe in the future!"
 </p>
 
 
-<h3 align=center>GitHub Stats 📊</h3>
+<h3 align=center>GitHub Stats 📊</h3> (doesn't include priv repos smh)
 <p align=center>
 <a href="https://github.com/ThetaHalo/">
   <img align="center" src="https://readme-stats.eps.lol/api?username=ThetaHalo&show_icons=true&theme=transparent&title_color=bdafff&text_color=bdafff&icon_color=ab6afe&border_radius=6&hide_rank=true&include_all_commits=true" />
