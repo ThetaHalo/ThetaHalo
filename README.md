@@ -27,7 +27,7 @@ Location: "United States, hoping to move to Europe in the future!"
 <h3 align=center> Languages that I can somewhat understand 💻 </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=astro,html,css,cs,typescript" />
+    <img src="https://skillicons.dev/icons?i=astro,html,css,cs,typescript,js" />
   </a>
 </p>
 <h3 align=center>Socials 📞</h3>
