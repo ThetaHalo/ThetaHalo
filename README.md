@@ -14,9 +14,9 @@ namespace Theta.GitHub;
 public class Thetas-GH-Profile
 {
   // hey there!
-  public string Interests = "Gaming, Music, Writing, Aerospace (Aviation), Coding!"
-  public string Hobbies = "Listening to Music, Watching Anime, Playing Games, and helping others!"
-  public string Location = "United States, hoping to move to Europe in the future!"
+  public string Interests = "Gaming, Music, Writing, Aerospace (Aviation), Coding!";
+  public string Hobbies = "Listening to Music, Watching Anime, Playing Games, and helping others!";
+  public string Location = "United States, hoping to move to Europe in the future!";
   // o/
 }
 ```
