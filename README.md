@@ -9,16 +9,16 @@ using Markdown;
 using GitInfo;
 using boop;
 
-namespace Theta;
+namespace Theta.GitHub;
 
 public class Thetas-GH-Profile
-
-/*
-hey there!
-Interests: "Gaming, Music, Writing, Aerospace (Aviation), Coding!"
-Hobbies: "Listening to Music, Watching Anime, Playing Games, and helping others!"
-Location: "United States, hoping to move to Europe in the future!"
-*/
+{
+  // hey there!
+  public string Interests = "Gaming, Music, Writing, Aerospace (Aviation), Coding!"
+  public string Hobbies = "Listening to Music, Watching Anime, Playing Games, and helping others!"
+  public string Location = "United States, hoping to move to Europe in the future!"
+  // o/
+}
 ```
 ---
 <details>
