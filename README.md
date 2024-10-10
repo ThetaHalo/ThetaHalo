@@ -27,7 +27,7 @@ public class Thetas-GH-Profile
 <h3 align=center> Languages that I can somewhat understand 💻 </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=astro,html,css,cs,typescript,js" />
+    <img src="https://skillicons.dev/icons?i=astro,html,css,cs,typescript,js,python" />
   </a>
 </p>
 <h3 align=center>Socials 📞</h3>
