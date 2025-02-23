@@ -11,9 +11,9 @@ import { Octokit } from "octokit";
 const octokit = new Octokit({ user:"ThetaHalo", userAgent:"Github README" });
 
 const details = {
-  interests: "Gaming, Music, Writing, Aerospace (Aviation), Coding!";
-  hobbies: "Listening to Music, Watching Anime, Playing Games, and helping others!";
-  location: "United States, hoping to move to Europe in the future!";
+  interests: "Gaming, Music, Writing, Aerospace (Aviation), Coding!",
+  hobbies: "Listening to Music, Watching Anime, Playing Games, and helping others!",
+  location: "United States, hoping to move to Europe in the future!"
 }
 
 await octokit.request("POST /repos/{owner}/{repo}/", {
