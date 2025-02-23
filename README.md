@@ -4,21 +4,25 @@
 
 <h3 align=center> Information 📖</h3>
 
-```C#
-using Markdown;
-using GitInfo;
-using boop;
+```JS
+import markdown from 'Markdown';
+import { Octokit } from "octokit";
 
-namespace Theta.GitHub;
+const octokit = new Octokit({ user:"ThetaHalo", userAgent:"Github README" });
 
-public class Thetas-GH-Profile
-{
-  // hey there!
-  public string Interests = "Gaming, Music, Writing, Aerospace (Aviation), Coding!";
-  public string Hobbies = "Listening to Music, Watching Anime, Playing Games, and helping others!";
-  public string Location = "United States, hoping to move to Europe in the future!";
-  // o/
+const details = {
+  interests: "Gaming, Music, Writing, Aerospace (Aviation), Coding!";
+  hobbies: "Listening to Music, Watching Anime, Playing Games, and helping others!";
+  location: "United States, hoping to move to Europe in the future!";
 }
+
+await octokit.request("POST /repos/{owner}/{repo}/", {
+  owner: "ThetaHalo",
+  repo: "ThetaHalo",
+  title: "Hey, I'm Theta!",
+  body: details,
+});
+
 ```
 ---
 <details>
