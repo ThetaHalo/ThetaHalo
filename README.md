@@ -16,7 +16,7 @@ const details = {
   location: "United States, hoping to move to Europe in the future!"
 }
 
-await octokit.request("POST /repos/{owner}/{repo}/", {
+await octokit.request("POST /repos/ThetaHalo/ThetaHalo/", {
   owner: "ThetaHalo",
   repo: "ThetaHalo",
   title: "Hey, I'm Theta!",
