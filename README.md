@@ -31,12 +31,12 @@ await octokit.request("POST /repos/ThetaHalo/ThetaHalo/", {
 <h3 align=center> Languages & Frameworks that I can read & code (proficiently) 💻 </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=astro,html,css,typescript,js,discordjs" />
+    <img src="https://skillicons.dev/icons?i=cs,html,css,typescript,js,astro,discordjs" />
   </a>
 </p>
 <h3 align=center>Languages & Frameworks that I'm currently learning. 🔥</h3>
 <p align=center>
-  <img src="https://skillicons.dev/icons?i=cs,python,java,vue,svelte">
+  <img src="https://skillicons.dev/icons?i=python,java,vue,svelte">
 </p>
 <h3 align=center>Socials 📞</h3>
 <p align=center>
