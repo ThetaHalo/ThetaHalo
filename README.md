@@ -11,4 +11,5 @@ If you need to reach out to me, you can contact me via my website or by Discord.
 
 ---
 
-`What's the point in living a boring life.. Go out and have fun, stop wasting your limited time, cause someday you may regret it.`
+`What's the point in living a boring life.. Go out and have fun, stop wasting your limited time, cause someday you may regret it.` <br>
+**Also, go try out Project: Lotus, it's a very fun Among Us mod. - [PL Website](https://lotusau.top/)**
