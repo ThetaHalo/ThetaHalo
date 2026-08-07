@@ -3,7 +3,6 @@
 <h3 align=center> Information 📖</h3>
 I'm very busy nowadays, though I still find time to work on my projects in my very limited free time.<br><br>
 
-I'm currently working on a game, as well as some other random things. <br />
 I mainly code in TypeScript & C#, though I know some other languages to varying degrees.<br />
 
 If you need to reach out to me, you can contact me via my website or by Discord.<br />
@@ -11,5 +10,4 @@ If you need to reach out to me, you can contact me via my website or by Discord.
 
 ---
 
-`What's the point in living a boring life.. Go out and have fun, stop wasting your limited time, cause someday you may regret it.` <br>
 **Also, go try out Project: Lotus, it's a very fun Among Us mod. - [PL Website](https://lotusau.top/)**
